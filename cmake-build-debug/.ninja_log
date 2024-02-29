@@ -1,0 +1,5 @@
+# ninja log v5
+8	3988	1699331874160593060	CMakeFiles/priority_queue.dir/tests.cpp.o	ede50dde8b44cbdd
+9	571	1699331758821231277	CMakeFiles/priority_queue.dir/main.cpp.o	15a5b669e2e93d5e
+2	85	1699322635783995574	priority_queue	40a564fbe191939a
+1	60	1708054461416772474	build.ninja	22c00445a85dc1ec
